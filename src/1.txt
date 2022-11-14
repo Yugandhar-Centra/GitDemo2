@@ -1,2 +1,2 @@
 src file1 
-b1 change
+b1 change new
